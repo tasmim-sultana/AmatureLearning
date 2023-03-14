@@ -1,0 +1,92 @@
+
+
+body
+{
+    margin:0;
+    background-color: bisque;
+}
+
+.navbar-brand{
+font-family: 'Montserrat', sans-serif;
+font-size: 2em;
+font-weight: bold;
+color:white;
+}
+.custom-nav .custom-nav-item a{
+    color:white !important;
+}
+
+.custom-nav-item:hover
+{
+    background-color: orangered;
+    border: 1px solid orangered;
+    border-radius: 10px;
+}
+.remove-vid-marg
+{
+    margin: 0px;
+    padding: 0px;
+   
+}
+.div-parent
+{
+  position: relative;
+  right: 0;
+  bottom: 0;
+  max-height: 100%;
+  max-width: 100%;
+  background-size: cover;
+}
+
+
+.remove-vid-marg video
+{
+  
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+.overlay {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background: #225470;
+    opacity: 0.8;
+}
+.vid-content
+{
+    position: absolute;
+    z-index: 2;
+    top: 40%;
+    left: 35%;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.txt-banner
+{
+    color: white;
+    padding: 15px;
+}
+.custom-pic
+{
+    width: 100%;
+    height: 70%;
+}
+.stripe
+{
+    background-image: linear-gradient(240deg,#ed213a,#93291e);
+    padding: 3rem;
+    height: 13rem;
+    margin-top: 4rem;
+    transform: rotate(10deg);
+    z-index: -5;
+}
+a.social-hover:hover{
+    padding: 5px 10px;
+    text-decoration: none;
+    background-color: gray;
+}

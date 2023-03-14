@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+    font-size: 3em;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: black;
+    margin: 250px 100px 100px 100px;
+}
