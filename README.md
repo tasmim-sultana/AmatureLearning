@@ -12,4 +12,4 @@ journey. Here we inspire people to do the things that they love. Help them to br
 their creativity. People will be able learn what they actually love to do, not for any 
 academic purpose. So, this website is mainly built to fulfill people’s hobbies, passions 
 and interests. It will help the people to bring out their creativity. 
-![photo](![elearning](https://user-images.githubusercontent.com/62103596/225211417-83c0e7ea-cd33-4aec-9671-f0679f16348b.PNG)
+![elearning](https://user-images.githubusercontent.com/62103596/225211417-83c0e7ea-cd33-4aec-9671-f0679f16348b.PNG)
